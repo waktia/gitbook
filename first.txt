@@ -1,3 +1,6 @@
 first commit
-
+a
 add another comment
+
+nextver
+ "ここはnextverで記入したところ"
